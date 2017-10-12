@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Average versus median", "Average versus median\Average versus median.pyproj", "{2C1F78EA-2B5F-4EF6-ACC3-B2F9D17F2880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1F78EA-2B5F-4EF6-ACC3-B2F9D17F2880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1F78EA-2B5F-4EF6-ACC3-B2F9D17F2880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F41611-DCE0-4134-88BA-D631F35BBA58}
+	EndGlobalSection
+EndGlobal
