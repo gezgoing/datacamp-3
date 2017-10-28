@@ -1,0 +1,10 @@
+key   cars_per_cap        country  drives_right
+0           809  United States          True
+1           731      Australia         False
+2           588          Japan         False
+3            18          India         False
+4           200         Russia          True
+5            70        Morocco          True
+6            45          Egypt          True
+
+
