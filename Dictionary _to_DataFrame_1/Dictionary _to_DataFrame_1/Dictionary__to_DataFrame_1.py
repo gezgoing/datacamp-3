@@ -49,3 +49,4 @@ cars = pd.DataFrame(my_dict)
 # Print cars
 print(cars)
 
+print(cars.items())

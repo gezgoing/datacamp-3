@@ -33,3 +33,20 @@ del(europe['australia'])
 
 # Print europe
 print(europe)
+
+#iterate with dictionaries
+
+for key in europe:
+	print(key, europe[key])
+	
+	
+for key, value in europe.items():
+	print (key, value)
+	
+europe_values = europe.values()
+europe_keys = europe.keys()
+
+print(europe_keys)
+print(europe_values)
+
+europe.get('spain')[0]
